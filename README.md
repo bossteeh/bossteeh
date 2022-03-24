@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Tolulope Akinrinola, Welcome to my GitHub 😄 👋.
+### I'm Tolulope, 
 
-
+- ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Nigerian+Software+Developer;Graphics+Designer;Aspiring+Full-Stack+Developer;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 - :man: I am a Frontend Web Developer with experience using a variety of programming languages to create user-friendly webpages 😊
 
@@ -15,6 +15,8 @@ My name is Tolulope Akinrinola, Welcome to my GitHub 😄 👋.
 - 🤔 I’m on the lookout for Internships and entry level roles (Frontend).
 - 📫 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/bossteeh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/bossteeh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolulopeakinrinola/)
 - ⚡ Fun fact: Aside Coding, I enjoy making designs and illustrations with Coreldraw 💻 , Riding 🏍️ and Web-surfing 💻.
+
+
 
 <!--
 **bossteeh/bossteeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
