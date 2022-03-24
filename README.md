@@ -2,6 +2,8 @@
 
 My name is Tolulope Akinrinola, Welcome to my GitHub 😄 👋.
 
+
+
 - :man: I am a Frontend Web Developer with experience using a variety of programming languages to create user-friendly webpages 😊
 
 - :blossom: I have strong technical skills, visual sense, understanding of UX with strong communication skills.
@@ -11,7 +13,7 @@ My name is Tolulope Akinrinola, Welcome to my GitHub 😄 👋.
 - 👯 I enjoy collaborating and participating in team discussions and planning.
 - 🌱 I’m currently learning Javascript at African Trainovation Consulting Limited.
 - 🤔 I’m on the lookout for Internships and entry level roles (Frontend).
-- 📫 You can reach me via: [LinkedIn] (https://www.linkedin.com/in/tolulopeakinrinola/) and [twitter] 🐦 (https://www.twitter.com/bossteeh)
+- 📫 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/bossteeh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/bossteeh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolulopeakinrinola/)
 - ⚡ Fun fact: Aside Coding, I enjoy making designs and illustrations with Coreldraw 💻 , Riding 🏍️ and Web-surfing 💻.
 
 <!--
