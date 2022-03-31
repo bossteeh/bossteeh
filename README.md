@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Tolulope.
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Nigerian+Software+Developer;Graphics+Designer;Aspiring+Full-Stack+Developer;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Developer;Graphics+Designer;Aspiring+Full-Stack+Developer;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 - :man: I am a Frontend Web Developer with experience using a variety of programming languages to create user-friendly webpages 😊
 
