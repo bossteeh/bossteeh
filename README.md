@@ -9,7 +9,7 @@
 
 - :trident: I am passionate about web and mobile technologies with great eye for superb user experience.
 - 👯 I enjoy collaborating and participating in team discussions and planning.
-- 🌱 I’m currently learning Javascript at African Trainovation Consulting Limited.
+- 🌱 I’m currently learning ReactJS after Mastering HTML, CSS and JAVASCRIPT at African Trainovation Consulting Limited.
 - 🤔 I’m on the lookout for Internships and entry level roles (Frontend).
 - 📫 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bossteeh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bossteeh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolulopeakinrinola/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bossteeh_)
 
